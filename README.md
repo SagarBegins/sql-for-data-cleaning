@@ -1,13 +1,6 @@
 # sql-for-data-cleaning
 
 
-Assignment Questions
-Note: - 
-1. The tables mentioned in the questions for the references are available in the classic model database.
-2.  In the questions, if they specifically mention to create the tables, then you need to create the 	tables as per given specifications.
-3. Solve all the assignment questions, organized by topic wise, within a single query tab only. Kindly submit your MySQL assignments in a single file, using a format that suits you best, such as a .sql file, Notepad, or Word document.
-
-
 Q1. SELECT clause with WHERE, AND, DISTINCT, Wild Card (LIKE)
 
 a.	Fetch the employee number, first name and last name of those employees who are working as Sales Rep reporting to employee with employeenumber 1102 (Refer employee table)
